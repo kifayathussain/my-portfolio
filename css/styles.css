@@ -1,0 +1,678 @@
+body{
+	padding-top: 100px;
+}
+#container{
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+}
+#rupiza{
+		text-align: center;
+		padding: 50px;
+	/*max-width: 1000px;*/
+	/*margin: 0 auto;*/
+background-image: url(..//images/11.jpg);
+padding-top: 100px;
+background-repeat: no-repeat;
+}
+#rupiza .head{
+	text-align: center;
+	text-transform: uppercase;
+	border-top: 2px solid;
+	border-bottom: 2px solid;
+	margin: 0 auto;
+	width: 21%;
+	font-size: 10px;
+	padding: 5px;
+	color: white;
+	font-weight: lighter;
+
+}
+#rupiza .para{
+	text-align: center;
+	text-transform: uppercase;
+	width: 50%;
+	margin: 0 auto;
+	padding: 20px;
+	font-weight: 100;
+	line-height: 30px;
+	font-size: 30px;
+	color: white;
+}
+#rupiza .para-2{
+	text-align: center;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	width: 30%;
+	padding: 10px;
+	margin: 0 auto; 
+	font-size: 10px;
+	color: white;
+	/*font-weight: lighter;*/
+}
+#rupiza .button{
+	padding-top: 50px;
+	padding-bottom: 100px;
+}#rupiza .btn:hover{
+	background-color: red;
+color: white;
+border-color: red;
+}
+#rupiza .btn{
+
+	border:2px solid; 
+	color: white;
+	background-color: transparent;
+	padding: 10px;
+}
+body,h1,h2,h3,h4,h5,h6,p{
+	font-family: sans-serif;
+	padding: 0;
+	margin: 0;
+}
+#services{
+		text-align: center;
+	max-width: 1000px;
+	margin: 0 auto;
+padding-top: 100px;
+}
+.para-3{
+	text-align: center;
+	width: 75%;
+	padding: 50px;
+	margin: 0 auto; 
+	font-size: 15px;
+	text-transform: lowercase;
+}
+#services .container-1{
+	position: relative;
+max-width: 1000px;
+height: 300px;
+display: inline-block;
+}
+#services .icon-1{
+	position: absolute;
+	top: 50px;
+	left: -400px;
+	display: inline-block;
+	font-size: 50px;
+	border: 2px solid;
+	 padding: 20px;
+	 margin: 20px;
+
+}#services .icon-2{
+	position: absolute;
+	top: 50px;
+	left: -170px;
+	display: inline-block;
+	font-size: 50px;
+	border: 2px solid;
+	 padding: 20px;
+	 margin: 20px;
+}#services .icon-3{
+	position: absolute;
+	top: 50px;
+	left: 60px;
+	display: inline-block;
+	font-size: 50px;
+	border: 2px solid;
+	 padding: 20px;
+	 margin: 20px;
+}#services .icon-4{
+	position: absolute;
+	top: 50px;
+	left: 280px;
+	display: inline-block;
+	font-size: 50px;
+	border: 2px solid;
+	 padding: 20px;
+	 margin: 20px;
+}
+ #services .diss-1{
+ 	position: absolute;
+	display: block;
+	font-size: 20px; 
+	top: 180px;
+	left: -415px;
+
+}#services .diss-2{
+ 	position: absolute;
+	display: block;
+	font-size: 20px; 
+	top: 180px;
+	left: -190px;
+
+}#services .diss-3{
+ 	position: absolute;
+	display: block;
+	font-size: 20px; 
+	top: 180px;
+	left: 50px;
+
+}#services .diss-4{
+ 	position: absolute;
+	display: block;
+	font-size: 20px; 
+	top: 180px;
+	left: 295px;
+
+}
+header{
+	text-align: center;
+	max-width: 500px;
+	margin: 0 auto;
+	text-transform: uppercase;
+}
+header .title{
+	font-size: 2rem;
+	font-weight: 900;
+}
+header .title span{
+	font-weight: 100;
+}
+header .subTitle{
+	padding: 5px 0;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+#choose{
+	position: relative;
+	/*width: 80%;*/
+	height: 300px;
+	/*margin:0 auto;*/
+	background-image: url(..//images/14.jpg);
+	padding: 50px;
+	background-repeat: no-repeat;
+}
+header .title-2{
+	position: absolute;
+	font-size: 23px;
+	font-weight: 900;
+	top: 50px;
+	left: 200px;
+	color: white;
+}
+header .title-2 span{
+	font-weight: 100;
+}
+header .subTitle-2{
+	position: absolute;
+	top: 85px;
+	left: 200px;
+	padding: 5px 0;
+	border-top: 2px solid ;
+	border-bottom: 2px solid ;
+	color: white;
+}
+#choose .para-4{
+	position: absolute;
+	top: 150px;
+	left: 190px;
+	text-transform: lowercase;
+	width: 25%;
+	color: white;
+}
+#choose  .btn-2{
+	position: absolute;
+	top: 280px;
+	left: 200px;
+	border:2px solid;
+	font-size: 20px; 
+	color: white;
+	background-color: transparent;
+	padding: 10px;
+}
+#choose .btn-2:hover{
+	background-color: red;
+color: white;
+border-color: red;
+}
+#choose .icon-5{
+	position: absolute;
+	top: 70px;
+	left: 700px;
+	display: inline-block;
+	font-size: 50px;
+	color: white;
+}
+#choose .ship{
+	position: absolute;
+	top: 75px;
+	left: 800px;
+	color: white;
+}
+#choose .para-5{
+	position: absolute;
+	width: 120px;
+	top: 100px;
+	left: 780px;
+	display: inline-block;
+	font-size: 7px;
+	color: white;
+}
+#choose .icon-6{
+	position: absolute;
+	top: 200px;
+	left: 700px;
+	display: inline-block;
+	font-size: 50px;
+	color: white;
+}
+#choose .bus{
+	position: absolute;
+	top: 200px;
+	left: 820px;
+	color: white;
+}
+#choose .para-6{
+	position: absolute;
+	width: 120px;
+	top: 230px;
+	left: 780px;
+	display: inline-block;
+	font-size: 7px;
+	color: white;
+}
+#choose .icon-7{
+	position: absolute;
+	top: 70px;
+	left: 950px;
+	display: inline-block;
+	font-size: 50px;
+	color: white;
+}
+#choose .anchor{
+	position: absolute;
+	top: 75px;
+	left: 1050px;
+	color: white;
+}
+#choose .para-7{
+	position: absolute;
+	width: 120px;
+	top: 100px;
+	left: 1120px;
+	display: inline-block;
+	font-size: 7px;
+	color: white;
+}
+#choose .icon-8{
+	position: absolute;
+	top: 200px;
+	left: 950px;
+	display: inline-block;
+	font-size: 50px;
+	color: white;
+}
+#choose .clock{
+	position: absolute;
+	top: 200px;
+	left: 1100px;
+	color: white;
+}
+#choose .para-8{
+	position: absolute;
+	width: 120px;
+	top: 230px;
+	left: 1120px;
+	display: inline-block;
+	font-size: 7px;
+	color: white;
+}
+#portfolio{
+		text-align: center;
+	max-width: 1000px;
+	margin: 0 auto;
+padding-top: 100px;
+}
+header{
+	text-align: center;
+	max-width: 500px;
+	margin: 0 auto;
+	text-transform: uppercase;
+}
+header .title-3{
+	font-size: 2rem;
+	font-weight: 900;
+}
+header .title-3 span{
+	font-weight: 100;
+}
+header .subTitle-3{
+	padding: 5px 0;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+#portfolio .para-9{
+	text-align: center;
+	width: 75%;
+	padding: 50px;
+	margin: 0 auto; 
+	font-size: 15px;
+	text-transform: lowercase;
+}
+#portfolio .box{
+	position: relative;
+	/*width: 1000px;*/
+	height: 600px;
+	display: inline-block;
+	padding: 100px;
+}
+#portfolio .images{
+	position: absolute;
+	display: inline-block;
+	width: 500%;
+	left: -390px;
+	top: 50px;
+}
+#happy{
+	position: relative;
+	background-image: url(..//images/16.jpg);
+	width: 100%;
+	height: 300px;
+	margin: 0 auto;
+	text-align: center;
+	background-repeat: no-repeat;
+}
+
+#happy .icon-9{
+	position: absolute;
+	top: 80px;
+	left: 270px;
+	display: inline-block;
+	font-size: 50px;
+	color:white;
+}
+#happy .icon-10{
+	position: absolute;
+	top: 80px;
+	left: 560px;
+	display: inline-block;
+	font-size: 50px;
+	color:white;
+}
+#happy .icon-11{
+	position: absolute;
+	top: 80px;
+	left: 880px;
+	display: inline-block;
+	font-size: 50px;
+	color:white;
+}
+#happy .icon-12{
+	position: absolute;
+	top: 80px;
+	left: 1100px;
+	display: inline-block;
+	font-size: 50px;
+	color:white;
+}
+#happy .num{
+	position: absolute;
+	color: white;
+	font-size: 20px;
+	top: 150px;
+	left: 275px;
+	border-bottom: 2px solid;
+}
+#happy .num-2{
+	position: absolute;
+	color: white;
+	font-size: 20px;
+	top: 150px;
+	left: 565px;
+	border-bottom: 2px solid;
+}
+#happy .num-3{
+	position: absolute;
+	color: white;
+	font-size: 20px;
+	top: 150px;
+	left:880px;
+	border-bottom: 2px solid;
+}
+#happy .num-4{
+	position: absolute;
+	color: white;
+	font-size: 20px;
+	top: 150px;
+	left: 1115px;
+	border-bottom: 2px solid;
+}
+#happy .disnum{
+	position: absolute;
+	top: 180px;
+	left: 240px;
+	color: white;
+}
+#plans{
+	text-align: center;
+	max-width: 1000px;
+	margin: 0 auto;
+padding-top: 100px;
+}
+#plans .para-9{
+	text-align: center;
+	width: 75%;
+	padding: 50px;
+	margin: 0 auto; 
+	font-size: 15px;
+	text-transform: lowercase;
+}
+#plans .boxcontainer{
+	position: relative;
+	width: 80%;
+	height: 350px;
+}
+#plans .box-2{
+	position: absolute;
+	top: 30px;
+	left: -170px;
+	width: 55%;
+	display: inline-block;
+	border:5px solid black;
+	}
+#plans .box-3 {
+	position: absolute;
+	top: 30px;
+	left: 130px;
+	width: 55%;
+	display: inline-block;
+	border:5px solid black;
+}#plans .box-4{
+	position: absolute;
+	top: 30px;
+	left: 430px;
+	width: 55%;
+	display: inline-block;
+	border:5px solid black;
+}
+#plans .child{
+	text-transform: uppercase;
+	border-bottom: 2px solid;
+	font-size: 15px;
+	line-height: 35px;
+}
+#plans .btn-3{
+	border:2px solid; 
+	background-color: transparent;
+	padding: 5px;
+	margin: 20px;
+}
+#plans .btn-3:hover{
+	background-color: red;
+color: white;
+border-color: red;
+}
+#plans .bold{
+	font-size: 30px;
+}
+#people{
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+}
+#people .great{
+	position: relative;
+	text-align: center;
+	height: 350px;
+	margin:0 auto;
+	background-image: url(..//images/17.jpg);
+	padding: 50px;
+	background-repeat: no-repeat;
+}
+ #people .title-2nd{
+	position: absolute;
+	font-size: 23px;
+	font-weight: 900;
+	text-align: center;
+	top: 50px;
+	left: 570px;
+	color: white;
+	text-transform: uppercase;
+}
+ #people .title-2nd span{
+	font-weight: 100;
+}
+#people .subTitle-2nd{
+	position: absolute;
+	top: 85px;
+	left: 530px;
+	padding: 5px 0;
+	border-top: 2px solid ;
+	border-bottom: 2px solid ;
+	color: white;
+	text-transform: uppercase;
+}
+#people .img{
+	position: absolute;
+	top: 160px;
+	left: 70px;
+}
+#people .Imgdis{
+	position: absolute;
+	top: 300px;
+	left: 610px;
+	color: white;
+}
+#people .imgtext{
+	position: absolute;
+	color: white;
+	line-height: 35px;
+	font-size: 20px;
+	width: 650px;
+	top: 340px;
+	left: 380px;
+	text-align: center;
+}
+#people .iquote{
+	position: absolute;
+	top: 330px;
+	left: 335px;
+	display: inline-block;
+	font-size: 35px;
+	color:white;
+}
+#people .iquote-2{
+	position: absolute;
+	top: 370px;
+	left: 900px;
+	display: inline-block;
+	font-size: 35px;
+	color:white;
+}
+#greatTeem{
+		text-align: center;
+	/*max-width: 1000px;*/
+	margin: 0 auto;
+padding-top: 100px;
+}
+.john{
+	margin:auto;
+max-width:70%;
+padding: 5rem;
+}
+.john .johnChild{
+width: 28%;
+border:4px solid black;
+text-align: center;
+display: inline-block;
+margin: 2px 15px;
+}
+#greatTeem .johnChild{
+	
+	background-color: #3A3737;
+	border: 4px solid  #3A3737;
+	color: white;
+}
+
+#greatTeem .johnChild img{
+	
+	width: 100%;
+}
+#greatTeem .johnChild h3{
+	padding-top: 5px;
+	margin: 0;
+	font-size: 20px;
+	}
+	#greatTeem .johnChild h4{
+margin-top: 0px;
+margin-bottom: 1px;	
+font-size: 15px;	
+	}
+	#greatTeem .johnChild i{
+margin-top: 0px;
+margin-bottom: 20px;	
+font-size: 10px;
+margin-left: 5px;
+}
+#lastSec .img{
+	background-image: url(../images/18.jpg);
+height: 150px;
+color: white;
+position: relative;
+}
+#lastSec .img h2{
+	position: absolute;
+	text-transform: uppercase;
+	top: 70px;
+	left: 100px;
+
+} 
+#lastSec .img  button{
+	top: 55px;
+	left: 400px;
+	position: absolute;
+		background-color: #3A3737;
+		padding:15px 25px;
+		color: white;
+		text-transform: capitalize;
+		border: none;
+		    margin-top: 1rem;
+        margin-left: 20rem;
+	}
+	#lastSec .img button:hover{
+	background-color: red;
+color: white;
+border-color: red;
+}
+	footer{
+		background-color:#3A3737;
+		padding-top: 30px; 
+		color: white;
+		max-width: 100%;
+		height: 50px;
+
+	}
+	footer h2{
+		text-transform: capitalize;
+		padding-left: 50px;
+		padding-right: 40rem;
+		font-size: 10px;
+		display: inline-block;
+	}
+	footer i{
+		padding-left: 20px;
+		margin-left: 25px;
+	}
